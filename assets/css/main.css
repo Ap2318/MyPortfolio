@@ -127,7 +127,7 @@ html {
 
 body {
   background-color: #ffffff;
-  color: #444444;
+  /*color: #444444;*/
 }
 
 body, input, select, textarea {
@@ -2802,6 +2802,7 @@ body.is-preload #banner:before {
   position: relative;
   text-align: center;
   z-index: -1;
+  background: linear-gradient(135deg, #79afe0 0%, #111111 74%);
 }
 
 #cta input, #cta select, #cta textarea {
