@@ -212,11 +212,15 @@
 									</div>
 								</div>
 								<div class="" style="margin:30px;">
-									<input type="submit" name="submit" value="Submit">
+									<input type="submit" name="submit" value="Submit" onclick="myFunction()">
 									<script>
 										if(isset($_POST['submit']))
 										{
-											alert("Thank you for messaging me.");
+											function myFunction() 
+											{
+  										alert("Thank you for messaging me.");
+											}
+											
 										}
 									</script>
 								</div>
