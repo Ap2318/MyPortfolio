@@ -10,3 +10,4 @@ For Configuration- https://developer.android.com/studio/run/rundebugconfig
 
 -> The need to develop this Project is that people are still unaware of those Diamond trade. This website will update them about latest diamond market.
 
+![DiamondApp](https://user-images.githubusercontent.com/69053786/115767438-26a95780-a377-11eb-9fc6-af76c04eb0f1.jpeg)
