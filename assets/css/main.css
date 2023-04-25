@@ -2728,7 +2728,7 @@ ul.icons li .icon:before {
 
 #banner:after {
 /*   background: linear-gradient(135deg, #79afe0 0%, #111111 74%); */
-	background-image : url("image/img_snow_wide.jpg");
+	background-image : url("images/img_snow_wide.jpg");
   content: ' ';
   display: block;
   height: 100%;
